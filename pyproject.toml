@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "Machine failure classification"
+version = "0.1.0"
+description = "Multi classification for automated detection of faults in a production machine."
+authors = "Jona Koenemann"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
