@@ -5,12 +5,11 @@ Version: 0.1.0
 Multi classification for automated detection of faults in a production machine.
 
 - [Machine failure classification](#machine-failure-classification)
-- [Project Organization](#project-organization)
+  - [Project Organization](#project-organization)
   - [About](#about)
   - [Useful links](#useful-links)
 
-
-# Project Organization
+## Project Organization
 
 The project structure when using all features is as follows:
 
@@ -40,7 +39,6 @@ The project structure when using all features is as follows:
 Authors: Noah Kornter, Jona Koenemann
 
 This project is based on the [python template](https://github.com/JonaKoenemann/python_template) of       [JonaKonemann](https://github.com/JonaKoenemann).
-
 
 ## Useful links
 [Python template](https://github.com/JonaKoenemann/python_template)
