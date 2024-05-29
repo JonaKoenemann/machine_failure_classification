@@ -1,0 +1,3 @@
+params,mean_test_score,std_test_score,rank_test_score
+"{'classifier': GradientBoostingClassifier(), 'classifier__learning_rate': 0.1, 'classifier__max_depth': 3, 'classifier__n_estimators': 100}",0.9809998900174989,0.0009863406418079304,1
+"{'classifier': RandomForestClassifier(), 'classifier__max_depth': 10, 'classifier__n_estimators': 100}",0.9799999681210142,0.0001803347766850794,2
