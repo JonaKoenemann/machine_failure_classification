@@ -83,7 +83,7 @@ As can be seen in the table, the Gradient Boosting classifier provides the best 
 ## About
 Authors: Noah Kornter, Jona Koenemann
 
-This project is based on the [python template](https://github.com/JonaKoenemann/python_template) of       [JonaKonemann](https://github.com/JonaKoenemann).
+This project is based on the [python template](https://github.com/JonaKoenemann/python_template) of       [JonaKoenemann](https://github.com/JonaKoenemann).
 
 ## Useful links
 [Python template](https://github.com/JonaKoenemann/python_template)
