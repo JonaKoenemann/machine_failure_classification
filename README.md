@@ -1,6 +1,6 @@
 # Machine failure classification
 
-Version: 0.1.0
+Version: 1.0.0
 
 This repository contains code and resources for predicting machine failures using machine learning techniques.
 

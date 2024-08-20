@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "Machine failure classification"
-version = "0.1.0"
+version = "1.0.0"
 description = "Multi classification for automated detection of faults in a production machine."
 authors = "Jona Koenemann"
 readme = "README.md"
